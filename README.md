@@ -8,5 +8,3 @@ I love playing drum and computer games. If you are a player too, please add me o
 # 📫 RSS
 Echojs, Hackernoon, LogRocket and Medium 👯
 
-<img align="left" alt="Yağız's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gaspetcan&show_icons=true&hide_border=true" />
-
