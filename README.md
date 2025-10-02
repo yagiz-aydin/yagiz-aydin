@@ -1,6 +1,6 @@
 # 💬 About Me
 Hi, I'm a **Senior Software Developer** at BtcTurk.  
-I focus on **Angular & React applications**, with experience in **.NET**. ❤️
+Building cool stuff with **Angular & React applications**, with experience in **.NET**. ❤️
 
 # ⚡ Cool Stuff
 I love **playing drums** and **computer games**.  
