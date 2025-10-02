@@ -1,10 +1,15 @@
+# 💬 About Me
+Hi, I'm a **Senior Software Developer** at BtcTurk.  
+I focus on **Angular & React applications**, with experience in **.NET**. ❤️
 
-# 💬 Work, Work
-Hi, I'm Senior Software Developer at BtcTurk. Focused on Angular & React applications ❤️ .NET. 
+# ⚡ Cool Stuff
+I love **playing drums** and **computer games**.  
+Feel free to contact me on **Discord**: `Alsahir#0971` ✨
 
-# ⚡ Cool Stuffs
-I love playing drum and computer games. Contact me on discord!✨(Alsahir#0971)
+# 🌐 Projects & Ideas
+Check out projects showcase: [BrightLayer](https://brightlayer.vercel.app/)  
 
-# 📫 RSS
-Please, checkout my personal blog [HyperTechMe](https://hypertechme.blog). 
-I’m also actively writing on EchoJS, HackerNoon, LogRocket, freeCodeCamp, and Medium. 👯
+# 📝 Blogs & RSS
+- Personal blog: [HyperTechMe](https://hypertechme.blog)  
+- Follow my latest articles on other platforms as well! 👯
+Also, I share my ideas and articles on my personal blog and platforms like **EchoJS, HackerNoon, LogRocket, freeCodeCamp, and Medium**.
