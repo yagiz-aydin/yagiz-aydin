@@ -2,10 +2,6 @@
 Hi, I'm a **Senior Software Developer** at BtcTurk.  
 Building cool stuff with **Angular & React applications**, with experience in **.NET**. ❤️
 
-# ⚡ Cool Stuff
-I love **playing drums** and **computer games**.  
-Feel free to contact me on **Discord**: `Alsahir#0971` ✨
-
 # 🌐 Projects & Ideas
 Check out projects showcase: [BrightLayer](https://brightlayer.vercel.app/)  
 
