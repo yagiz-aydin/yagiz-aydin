@@ -1,6 +1,6 @@
 # 💬 About Me
 Hi, I'm a **Senior Software Developer** at BtcTurk.  
-Building cool stuff with **Angular & React applications**, with experience in **.NET**. ❤️
+Building cool stuff with **Angular & React applications**, with **.NET**. ❤️
 
 # 🌐 Projects & Ideas
 Check out projects showcase: [BrightLayer](https://brightlayer.vercel.app/)  
