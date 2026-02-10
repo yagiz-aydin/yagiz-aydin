@@ -2,9 +2,6 @@
 Hi, I'm a software developer passionate about building scalable solutions with modern technologies.
 Building cool stuff with **Angular & React applications**, with **.NET**. ❤️
 
-# 🌐 Projects & Ideas
-Check out projects showcase: [BrightLayer](https://brightlayer.vercel.app/)  
-
 # 📝 Blogs & RSS
 - Personal blog: [HyperTechMe](https://hypertechme.blog)  
 - Follow my latest articles on other platforms as well! 👯
