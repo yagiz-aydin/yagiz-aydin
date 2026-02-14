@@ -1,6 +1,6 @@
 # 💬 About Me
 Hi, I'm a software developer passionate about building scalable solutions with modern technologies.
-Building cool stuff with mostly *Javascript & Typescript*
+Building cool stuff with Javascript, Typescript & C#
 
 # 📝 Blogs & RSS
 - Personal blog: [HyperTechMe](https://hypertechme.blog)  
