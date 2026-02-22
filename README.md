@@ -1,5 +1,5 @@
 # 💬 About Me
-Hi, I'm a software developer passionate about building hyperscale solutions with modern technologies.
+Hi, I'm a software developer, passionate about building hyperscale solutions with modern technologies.
 Building cool stuff with Javascript, Typescript & C#
 
 # 📝 Blogs & RSS
